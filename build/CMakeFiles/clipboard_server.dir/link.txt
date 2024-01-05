@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/clipboard_server.dir/src/main.cpp.o CMakeFiles/clipboard_server.dir/src/myserver.cpp.o -o clipboard_server 
